@@ -23,7 +23,8 @@
   .list { background: var(--card); border-radius: 12px; overflow: hidden; }
   .package { display: flex; gap: 12px; align-items: center; padding: 12px 16px; }
   .package + .package { border-top: 0.5px solid var(--line); }
-  .package img { width: 48px; height: 48px; border-radius: 11px; flex: none; }
+  .package .icon { width: 48px; height: 48px; border-radius: 11px; flex: none; }
+  .package div.icon { background: var(--line); }
   .package .name { font-weight: 600; }
   .package .detail { font-size: 15px; }
 </style>
@@ -71,10 +72,17 @@
     for (const p of Object.values(newest).sort((a, b) => (a.Name || a.Package).localeCompare(b.Name || b.Package))) {
       const row = document.createElement("div");
       row.className = "package";
-      const icon = document.createElement("img");
-      icon.src = p.Icon && p.Icon.startsWith(url) ? p.Icon.slice(url.length) : (p.Icon || "CydiaIcon.png");
-      icon.onerror = () => { icon.onerror = null; icon.src = "CydiaIcon.png"; };
-      icon.alt = "";
+      // The package's own icon, or a plain placeholder when it has none.
+      const placeholder = () => { const d = document.createElement("div"); d.className = "icon"; return d; };
+      let icon = placeholder();
+      if (p.Icon) {
+        const img = document.createElement("img");
+        img.className = "icon";
+        img.alt = "";
+        img.src = p.Icon.startsWith(url) ? p.Icon.slice(url.length) : p.Icon;
+        img.onerror = () => img.replaceWith(placeholder());
+        icon = img;
+      }
       const info = document.createElement("div");
       const name = document.createElement("div");
       name.className = "name";
