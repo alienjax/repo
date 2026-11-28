@@ -1,0 +1,226 @@
+Package: com.alienjax.riffle
+Version: 0.3.10
+Architecture: iphoneos-arm64
+Maintainer: alienjax
+Installed-Size: 660
+Depends: mobilesubstrate (>= 0.9.5000), preferenceloader, firmware (>= 15.0)
+Conflicts: com.alienjax.dockpages
+Replaces: com.alienjax.dockpages
+Filename: debs/com.alienjax.riffle_0.3.10_iphoneos-arm64.deb
+Size: 82148
+MD5sum: a25317efea8be90b4431d547efcf413e
+SHA1: 6f7b1c78d8c6e2219f2c55266b6f47e470d65a10
+SHA256: 10f1163d0ffd787ece55ea62d30350cb4c81c51bc750b37d3f2142eaf245b79a
+Section: Tweaks
+Description: Swipe your dock left and right to reveal more pages of apps, just like inside a folder.
+Author: alienjax
+Name: Jax Riffle
+Icon: https://alienjax.github.io/repo/icons/com.alienjax.riffle.png
+
+Package: com.alienjax.riffle
+Version: 0.3.7
+Architecture: iphoneos-arm64
+Maintainer: alienjax
+Installed-Size: 608
+Depends: mobilesubstrate (>= 0.9.5000), preferenceloader, firmware (>= 15.0)
+Conflicts: com.alienjax.dockpages
+Replaces: com.alienjax.dockpages
+Filename: debs/com.alienjax.riffle_0.3.7_iphoneos-arm64.deb
+Size: 77168
+MD5sum: e4596f18cefd55ca368f4c4d76beb04d
+SHA1: 7e121346b313fc5c0b7af6b72ce0de4d2a10f2ee
+SHA256: 2c57e3054c39c172be91bce39f35c35b52a78cf2d0b20dd196ed6e9af9ce118c
+Section: Tweaks
+Description: Swipe your dock left and right to reveal more pages of apps, just like inside a folder.
+Author: alienjax
+Name: Jax Riffle
+Icon: https://alienjax.github.io/repo/icons/com.alienjax.riffle.png
+
+Package: com.alienjax.riffle
+Version: 0.3.8
+Architecture: iphoneos-arm64
+Maintainer: alienjax
+Installed-Size: 608
+Depends: mobilesubstrate (>= 0.9.5000), preferenceloader, firmware (>= 15.0)
+Conflicts: com.alienjax.dockpages
+Replaces: com.alienjax.dockpages
+Filename: debs/com.alienjax.riffle_0.3.8_iphoneos-arm64.deb
+Size: 77470
+MD5sum: 3957205d4b1fb59cdc4f98418337b70a
+SHA1: f8342f72277dbe115b967900b7a8622d0c796d22
+SHA256: 8b97d40f83a8174c039b763dff3fb4b2733814d1cd627a04abaf3610ac0c15e7
+Section: Tweaks
+Description: Swipe your dock left and right to reveal more pages of apps, just like inside a folder.
+Author: alienjax
+Name: Jax Riffle
+Icon: https://alienjax.github.io/repo/icons/com.alienjax.riffle.png
+
+Package: com.jax.reddit-eclipse
+Version: 0.0.24b
+Architecture: iphoneos-arm64
+Maintainer: Your Name <you@example.com>
+Installed-Size: 268
+Depends: mobilesubstrate (>= 0.9.5000), firmware (>= 14.0)
+Filename: debs/com.jax.reddit-eclipse_0.0.24b_iphoneos-arm64.deb
+Size: 99252
+MD5sum: 73ed2130baccad735f792cfe3ff7274f
+SHA1: 069ec7742fd8588ea8601a53e14c2305364422e6
+SHA256: d1f68101e5733741cde99580330b047cebb0b289c399f19c0aed6a956fc8f9ca
+Section: Tweaks
+Description: Hides posts you've already read in the official Reddit app.
+Author: Your Name <you@example.com>
+Name: Jax Reddit Eclipse
+Icon: https://alienjax.github.io/repo/icons/com.jax.reddit-eclipse.png
+
+Package: com.jax.reddit-eclipse
+Version: 0.0.24b
+Architecture: iphoneos-arm
+Maintainer: Your Name <you@example.com>
+Installed-Size: 268
+Depends: mobilesubstrate (>= 0.9.5000), firmware (>= 14.0)
+Filename: debs/com.jax.reddit-eclipse_0.0.24b_iphoneos-arm.deb
+Size: 99162
+MD5sum: cf86401a6838eb4c20e1ed7739721057
+SHA1: a79a12673357a818dcf467c8631266b62bd46fe0
+SHA256: 5638d0a705e1e701bb9fd3788e723c8ccaad264f4ba41e0143cc64ab4f088f6c
+Section: Tweaks
+Description: Hides posts you've already read in the official Reddit app.
+Author: Your Name <you@example.com>
+Name: Jax Reddit Eclipse
+Icon: https://alienjax.github.io/repo/icons/com.jax.reddit-eclipse.png
+
+Package: com.jax.reddit-eclipse
+Version: 0.0.30b
+Architecture: iphoneos-arm
+Maintainer: Your Name <you@example.com>
+Installed-Size: 460
+Depends: mobilesubstrate (>= 0.9.5000), firmware (>= 14.0)
+Filename: debs/com.jax.reddit-eclipse_0.0.30b_iphoneos-arm.deb
+Size: 224126
+MD5sum: 61609cb43208537e31b7f0632734b9d2
+SHA1: 3d7bfaad82efa1e5e485d3f56013248a4ddc2b24
+SHA256: 8acfb1d49ec11cf582273ac0674dd241a067d63e1a3fe2cf2d77246132af610f
+Section: Tweaks
+Description: Hides posts you've already read in the official Reddit app.
+Author: Your Name <you@example.com>
+Icon: https://raw.githubusercontent.com/alienjax/Reddit-Eclipse/main/Art/icon.png
+Name: Jax Reddit Eclipse
+
+Package: com.jax.reddit-eclipse
+Version: 0.0.30b
+Architecture: iphoneos-arm64
+Maintainer: Your Name <you@example.com>
+Installed-Size: 460
+Depends: mobilesubstrate (>= 0.9.5000), firmware (>= 14.0)
+Filename: debs/com.jax.reddit-eclipse_0.0.30b_iphoneos-arm64.deb
+Size: 224234
+MD5sum: 2dca00ab5b0cd0468d465b8578ef3212
+SHA1: bdbc0efc43941e2816c03f0050da55b6995456f6
+SHA256: c1aa35c85a23d0a9d7e3d46be9432bfbcf1b5a6ed2b98d2f6898493bb969ec73
+Section: Tweaks
+Description: Hides posts you've already read in the official Reddit app.
+Author: Your Name <you@example.com>
+Icon: https://raw.githubusercontent.com/alienjax/Reddit-Eclipse/main/Art/icon.png
+Name: Jax Reddit Eclipse
+
+Package: com.jax.reddit-eclipse
+Version: 0.0.31b
+Architecture: iphoneos-arm
+Maintainer: Your Name <you@example.com>
+Installed-Size: 480
+Depends: mobilesubstrate (>= 0.9.5000), firmware (>= 14.0)
+Filename: debs/com.jax.reddit-eclipse_0.0.31b_iphoneos-arm.deb
+Size: 229780
+MD5sum: 8e87d08383b30cd61f4499aa6944e75d
+SHA1: d1ed1a0d77eba90af3cd6fd0d9a03216d6a66992
+SHA256: 28efbac5264dd7fb8ad875fbb15434c938a0b57c53d4ef34619b86cc26db23b0
+Section: Tweaks
+Description: Hides posts you've already read in the official Reddit app.
+Author: Your Name <you@example.com>
+Icon: https://raw.githubusercontent.com/alienjax/Reddit-Eclipse/main/Art/icon.png
+Name: Jax Reddit Eclipse
+
+Package: com.jax.reddit-eclipse
+Version: 0.0.31b
+Architecture: iphoneos-arm64
+Maintainer: Your Name <you@example.com>
+Installed-Size: 480
+Depends: mobilesubstrate (>= 0.9.5000), firmware (>= 14.0)
+Filename: debs/com.jax.reddit-eclipse_0.0.31b_iphoneos-arm64.deb
+Size: 229860
+MD5sum: 0c3ae35929bbb70159e51128e727c960
+SHA1: 26c327ebef640122324a976dd4971bd4fbe39bed
+SHA256: 38a35c4349308d7513b0a4daca3a0eeb84fa5e84a9e6c0b4757213a8a422aecf
+Section: Tweaks
+Description: Hides posts you've already read in the official Reddit app.
+Author: Your Name <you@example.com>
+Icon: https://raw.githubusercontent.com/alienjax/Reddit-Eclipse/main/Art/icon.png
+Name: Jax Reddit Eclipse
+
+Package: com.jax.reddit-eclipse
+Version: 0.0.32b
+Architecture: iphoneos-arm
+Maintainer: Your Name <you@example.com>
+Installed-Size: 480
+Depends: mobilesubstrate (>= 0.9.5000), firmware (>= 14.0)
+Filename: debs/com.jax.reddit-eclipse_0.0.32b_iphoneos-arm.deb
+Size: 229988
+MD5sum: 65d46025cd2cd8959cec0ec38d17f0a4
+SHA1: 9ce32646b20568f0d666a410f76ca94a4afcb08a
+SHA256: 9a6df4b808415c67e6c61dbc0115defe33e0a644d318ffee4f61b2ee8c0cd58b
+Section: Tweaks
+Description: Hides posts you've already read in the official Reddit app.
+Author: Your Name <you@example.com>
+Icon: https://raw.githubusercontent.com/alienjax/Reddit-Eclipse/main/Art/icon.png
+Name: Jax Reddit Eclipse
+
+Package: com.jax.reddit-eclipse
+Version: 0.0.32b
+Architecture: iphoneos-arm64
+Maintainer: Your Name <you@example.com>
+Installed-Size: 480
+Depends: mobilesubstrate (>= 0.9.5000), firmware (>= 14.0)
+Filename: debs/com.jax.reddit-eclipse_0.0.32b_iphoneos-arm64.deb
+Size: 230068
+MD5sum: 952af6fb45aedb24ca425b8f76707d47
+SHA1: 2052171a795b1343a9a59919eba5a0318b9af8f3
+SHA256: f4015c6d3f2355b559f09d6515f5ac5da87b4c633fee495052accaa8d75acfb2
+Section: Tweaks
+Description: Hides posts you've already read in the official Reddit app.
+Author: Your Name <you@example.com>
+Icon: https://raw.githubusercontent.com/alienjax/Reddit-Eclipse/main/Art/icon.png
+Name: Jax Reddit Eclipse
+
+Package: com.jax.reddit-eclipse
+Version: 0.0.33b
+Architecture: iphoneos-arm64
+Maintainer: Your Name <you@example.com>
+Installed-Size: 480
+Depends: mobilesubstrate (>= 0.9.5000), firmware (>= 14.0)
+Filename: debs/com.jax.reddit-eclipse_0.0.33b_iphoneos-arm64.deb
+Size: 231020
+MD5sum: caa411b08481c62c0e11e3a7dd800f7c
+SHA1: afd57930c023a841d4f88be8df915b4f6bb8fc2b
+SHA256: 452af83e4d3a9ef6113e4d6a5bef17307363e529f01a3eb0feb7a2313b9f3f4f
+Section: Tweaks
+Description: Hides posts you've already read in the official Reddit app.
+Author: Your Name <you@example.com>
+Icon: https://raw.githubusercontent.com/alienjax/Reddit-Eclipse/main/Art/icon.png
+Name: Jax Reddit Eclipse
+
+Package: com.jax.reddit-eclipse
+Version: 0.0.33b
+Architecture: iphoneos-arm
+Maintainer: Your Name <you@example.com>
+Installed-Size: 480
+Depends: mobilesubstrate (>= 0.9.5000), firmware (>= 14.0)
+Filename: debs/com.jax.reddit-eclipse_0.0.33b_iphoneos-arm.deb
+Size: 230932
+MD5sum: bd0ce34777044e84de382b4bfb1291a0
+SHA1: 60249f04541fa5af6d8f2dff873e3b52f4956273
+SHA256: b27d1b729f701ddb0413800d2dd2d300acbe979b069b143b77f792918b4adc6b
+Section: Tweaks
+Description: Hides posts you've already read in the official Reddit app.
+Author: Your Name <you@example.com>
+Icon: https://raw.githubusercontent.com/alienjax/Reddit-Eclipse/main/Art/icon.png
+Name: Jax Reddit Eclipse

@@ -1,0 +1,19 @@
+Origin: Jax Repo
+Label: Jax Repo
+Suite: stable
+Version: 1.0
+Codename: ios
+Architectures: iphoneos-arm iphoneos-arm64
+Components: main
+Description: Tweaks by alienjax
+Date: Sat, 28 Nov 2026 06:25:50 GMT
+MD5Sum:
+ dd7422a6a228339e1eba9bd0fa2485ea 8780 Packages
+ 46d8b1cc65a199299f871fa38f1c17a4 2161 Packages.bz2
+ b164b30c80d923c1845e8db25ac1b4ca 1927 Packages.gz
+ c4cc9d3484d74249712d74a129cf4c44 1824 Packages.xz
+SHA256:
+ 6b3808c27c85855addd17311d3e88910b03fa47ece0273e90d5dfd9e32001968 8780 Packages
+ 18fe541188e75d297200b4d6e6c1ecbe72e7b72161dc015be150b6138ebd0538 2161 Packages.bz2
+ 766c15de7d834e9abc01dc9722d7502f63fd9adadf0f5c2208045da776480d1f 1927 Packages.gz
+ a4b56d0b0251a08ad3f62db1596011a7276c2152ca4717633271704de9bda015 1824 Packages.xz
